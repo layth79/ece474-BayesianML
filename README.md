@@ -1,10 +1,10 @@
 # ece474-BayesianML
-[Project 1 - Conjugate Priors](#project-1---conjugate-priors)
-[Project 2 - Linear Regression](#project-2---linear-regression)
-[Project 3 - Linear Classification](#project-3---linear-classification)
-[Project 4 - Gaussian Processes](#project-4---gaussian-processes)
-[Project 5 - Expectation Maximization](#project-5---expectation-maximization)
-[Project 6 - Sampling Methods](#project-6---sampling-methods)
+[Project 1 - Conjugate Priors](#project-1---conjugate-priors) <br >
+[Project 2 - Linear Regression](#project-2---linear-regression) <br >
+[Project 3 - Linear Classification](#project-3---linear-classification) <br >
+[Project 4 - Gaussian Processes](#project-4---gaussian-processes) <br >
+[Project 5 - Expectation Maximization](#project-5---expectation-maximization) <br >
+[Project 6 - Sampling Methods](#project-6---sampling-methods) <br >
 [Project 7 - Sampling Using PyMC3](#project-7---sampling-using-pymc3)
 
 ## Project 1 - Conjugate Priors ##
