@@ -1,5 +1,5 @@
 # ece474-BayesianML
-[Project 1 - Conjugate Priors](project-1-conjugate-priors)
+[Project 1 - Conjugate Priors](#project-1-conjugate-priors)
 
 ## Project 1 - Conjugate Priors ##
 The project is to implement conjugate estimators for the following scenarios: <br >
