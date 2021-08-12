@@ -1,7 +1,7 @@
 # ece474-BayesianML
-[Project 1 - Conjugate Priors](#project-1-conjugate-priors)
+[Project 1 - Conjugate Priors](#project-1)
 
-## Project 1 - Conjugate Priors ##
+## Project 1 ##
 The project is to implement conjugate estimators for the following scenarios: <br >
 Binomial, <br >
 Gaussian with known variance (i.e. estimate the mean), <br >
